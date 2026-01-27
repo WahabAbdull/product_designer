@@ -20,24 +20,105 @@ site_description: Portfolio of Abdul Wahab - Mechanical Design Engineer & Produc
 #       primary: lightbrown
 #       accent: green
 
+# theme:
+#   name: readthedocs
+
+# theme:
+#   name: windmill
+#   highlightjs: true
+#   include_homepage_in_sidebar: false
+#   include_search_page: true
+
+# theme:
+#   name: gitbook
+#   colorscheme: dark  # or 'dark' for dark mode
+
+# theme:
+#   name: material
+#   palette:
+#     # Professional White/Blue
+#     - scheme: default
+#       primary: skyblue
+#       accent: blue
+#       toggle:
+#         icon: material/brightness-7
+#         name: Switch to dark mode
+    
+#     # Corporate Dark Mode
+#     - scheme: lightbrown
+#       primary: blue
+#       accent: blue
+#       toggle:
+#         icon: material/brightness-4
+#         name: Switch to light mode
+  
+#   features:
+#     - navigation.tabs        # Top navigation like corporate sites
+#     - navigation.sections    # Clean sidebar sections
+#     - toc.integrate          # Clean right-side TOC
+#     - search.suggest
+#     - search.highlight
+
+
+# theme:
+#   name: material
+#   palette:
+#     - scheme: sunset
+#       primary: orange
+#       accent: yellow
+
+# theme:
+#   name: bootstrap
+#   nav_style: primary  # or 'dark' for dark navbar
+
+# theme:
+#   name: windmill
+#   highlightjs: true
+
+# theme:
+#   name: windmill-dark
+
+# theme:
+#   name: material
+#   features:
+#     - navigation.tabs           # Top-level tabs
+#     - navigation.sections       # Grouped sidebar sections
+#     - navigation.expand         # Auto-expand sections
+#     - navigation.path           # Breadcrumbs
+#     - navigation.instant        # Smooth page transitions
+#     - toc.integrate             # TOC in sidebar like Windmill
+    
+#   palette:
+#     - scheme: default
+#       primary: white            # Clean professional look
+#       accent: blue
 
 theme:
-  name: readthedocs
-  palette:
-    scheme: default
-    primary: amber  
-    accent: red
-    scheme: default
-    primary: amber
-    accent: red
-  features:
-    - navigation.tabs
-    - navigation.top
-    - content.images
-    - search.highlight
-  font:
-    text: Roboto
-    code: Roboto Mono
+  name: windmill
+  include_search_page: true
+  highlightjs: true
+
+# extra_css:
+#   - ./style_sheets/windmill-custom.css
+
+
+# theme:
+#   name: material
+#   palette:
+#     scheme: default
+#     primary: amber  
+#     accent: red
+#     scheme: default
+#     primary: amber
+#     accent: red
+#   features:
+#     - navigation.tabs
+#     - navigation.top
+#     - content.images
+#     - search.highlight
+#   font:
+#     text: Roboto
+#     code: Roboto Mono
 
 nav:
   - Home: index.md

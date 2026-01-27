@@ -70,3 +70,20 @@ CGPA: **2.97 / 4.00**
 - Assisted with **ITIN applications (Form W-7)**
 - Supported **non-resident & international clients**
 - Ensured full **IRS compliance**
+
+
+
+
+<ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#what-i-do"> Project 1 | Universal Flush-Driven Aerosol Air Freshener Mechanism</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#what-i-do">Project 2 | Mixture Machine</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#what-i-do">Project 3 | CLI Tooth Brush</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#what-i-do">PProject 4 | Mini Projects</a>
+    </li>
+    </ul>🏆 Completed Projects
+
+    <li class="toctree-l2"><a class="reference internal" href="#Completed Projects">🏆 Completed Projects</a>
+    </li>
