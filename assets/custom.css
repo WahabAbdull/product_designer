@@ -81,3 +81,45 @@
   display: block;
   clear: both;
 }
+
+/* ReadTheDocs: Page-level TOC styling */
+.rst-content .toc {
+  border: 1px solid #e0e0e0;
+  border-left: 4px solid #da4453; /* accent */
+  background: #fafafa;
+  padding: 0.75rem 1rem;
+  margin: 1rem 0 1.25rem 0;
+  border-radius: 4px;
+}
+
+.rst-content .toc::before {
+  content: "On this page";
+  display: block;
+  font-weight: 600;
+  color: #333;
+  margin-bottom: 0.5rem;
+}
+
+.rst-content .toc ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 0.25rem;
+}
+
+.rst-content .toc li {
+  margin: 0.15rem 0;
+}
+
+.rst-content .toc li a {
+  text-decoration: none;
+  color: #2b7bb9;
+}
+
+.rst-content .toc li a:hover {
+  text-decoration: underline;
+}
+
+/* Nested levels indentation */
+.rst-content .toc ul ul {
+  margin-left: 0.75rem;
+}
