@@ -12,18 +12,18 @@ I am **Engr. Abdul Wahab**, a Mechanical Design Engineer and Product Designer wi
 
 I have successfully completed numerous mini and industrial projects, including:
 
-#### 🧰 Industrial Projects
+#### 🧰 **Industrial Projects**
   - Centrifugal Pump  
   - Heat Exchanger  
   - Parabolic Trough  
 
-#### 🛍️ Consumer Products
+#### 🛍️ **Consumer Products**
   - Disposable Bottle Cap  
   - Daster-Khiwan Dustbin  
   - Redmi Note 10 Pro Phone Casing  
   - Unique Table & Mobius Ring  
 
-#### 🏭 Industrial & Consumer Products
+#### 🏭 **Industrial & Consumer Products**
 - Mixture Machine  
 - CLI Toothbrush  
 - NEMO Helmet  
@@ -31,12 +31,12 @@ I have successfully completed numerous mini and industrial projects, including:
 
 ---
 
-#### 🎯 My Expertise
+#### 🎯 **My Expertise**
 
 My expertise lies in combining engineering precision, creativity, and manufacturability. I focus on delivering **functional, innovative, and production-ready designs** that meet technical standards and client expectations.
 
 ---
 
-#### ✅ Ready to Help
+#### ✅ **Ready to Help**
 
 If you are looking for reliable, precise, and professional mechanical design support, I am ready to help turn your ideas into reality.
