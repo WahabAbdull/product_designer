@@ -1,0 +1,83 @@
+/* Custom bullet icons for Material MkDocs */
+
+/* Reset default bullets to allow custom markers */
+.md-typeset ul {
+  list-style: none;
+  margin: 0 0 0.6rem 0;
+  padding-left: 0.6rem;
+}
+
+.md-typeset ul > li {
+  position: relative;
+  padding-left: 1.2rem;
+}
+
+/* Level 1 bullets */
+.md-typeset ul > li::before {
+  content: "\2022"; /* • */
+  position: absolute;
+  left: 0;
+  color: var(--md-primary-fg-color);
+  font-weight: 700;
+}
+
+/* Level 2 bullets */
+.md-typeset ul ul > li::before {
+  content: "\25E6"; /* ◦ */
+  color: var(--md-accent-fg-color);
+  font-weight: 600;
+}
+
+/* Level 3 bullets */
+.md-typeset ul ul ul > li::before {
+  content: "\25AA"; /* ▪ */
+  color: var(--md-default-fg-color--light);
+  font-weight: 600;
+}
+
+/* Optional: slight spacing tweak for nested lists */
+.md-typeset ul ul {
+  margin-top: 0.2rem;
+}
+
+/* Image alignment helpers */
+.md-typeset img.align-center {
+  display: block;
+  margin: 0.5rem auto;
+}
+
+.md-typeset img.align-right {
+  display: block;
+  margin: 0.5rem 0 0.5rem 1rem;
+  float: right;
+}
+
+.md-typeset img.align-left {
+  display: block;
+  margin: 0.5rem 1rem 0.5rem 0;
+  float: left;
+}
+
+/* Ensure images don’t overflow content width */
+.md-typeset img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Height utility classes for images */
+.md-typeset img.h-140 { height: 140px; width: auto; }
+.md-typeset img.h-160 { height: 160px; width: auto; }
+.md-typeset img.h-180 { height: 180px; width: auto; }
+.md-typeset img.h-200 { height: 200px; width: auto; }
+.md-typeset img.h-240 { height: 240px; width: auto; }
+.md-typeset img.h-280 { height: 280px; width: auto; }
+
+/* Generic: set height via CSS variable */
+.md-typeset img.h-var { height: var(--img-h, auto); width: auto; }
+
+/* Clear floats after sections to avoid overlap */
+.md-typeset::after {
+  content: "";
+  display: block;
+  clear: both;
+}
