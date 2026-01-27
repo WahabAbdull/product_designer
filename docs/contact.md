@@ -2,7 +2,7 @@
 
 📞&nbsp;&nbsp; **+92 318 3605425**  
 📧 &nbsp;&nbsp;**abdulwahabeng2023@gmail.com**  
-&nbsp;📍 &nbsp;&nbsp; **Dera Ismail Khan, Khyber Pakhtunkhwa, Pakistan**  
+<!-- &nbsp;📍 &nbsp;&nbsp; **Dera Ismail Khan, Khyber Pakhtunkhwa, Pakistan**   -->
 
 
 ---
