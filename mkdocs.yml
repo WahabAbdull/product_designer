@@ -1,0 +1,85 @@
+site_name: Engr. Abdul Wahab | Mechanical Design Engineer & Product Designer
+site_description: Portfolio of Abdul Wahab - Mechanical Design Engineer & Product Designer
+
+# # theme:
+# #   name: material
+
+# # theme: mkdocs
+
+# # theme:
+# #   name: material
+# #   palette:
+# #     scheme: default
+# #     primary: black
+# #     accent: brown
+
+# theme:
+#   name: material
+#   palette:
+#     - scheme: offwhite
+#       primary: lightbrown
+#       accent: green
+
+
+theme:
+  name: readthedocs
+  palette:
+    scheme: default
+    primary: amber  
+    accent: red
+    scheme: default
+    primary: amber
+    accent: red
+  features:
+    - navigation.tabs
+    - navigation.top
+    - content.images
+    - search.highlight
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+nav:
+  - Home: index.md
+  - About Me: about.md
+  - Projects: projects.md
+  - Skills: skills.md
+  - Contact: contact.md
+
+extra_css:
+  - assets/custom.css
+
+markdown_extensions:
+  - attr_list
+
+
+
+# site_name: Engr. Abdul Wahab
+# # site_description: Mechanical Design Engineer | Product Designer
+# # site_author: Abdul Wahab
+
+# theme:
+#   name: material
+#   features:
+#     - navigation.tabs
+#     - navigation.top
+#     - content.images
+#     - search.highlight
+#   palette:
+#     scheme: default
+#     primary: blue
+#     accent: blue
+#   font:
+#     text: Roboto
+#     code: Roboto Mono
+
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/WahabAbdull
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/abdul-wahab-4085b72b0/
+    - icon: fontawesome/brands/behance
+      link: https://www.behance.net/gallery/215636069/Abdul-Wahab
