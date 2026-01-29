@@ -4,7 +4,6 @@
 
 ![my profile picture](./assets/images/myprofile_picture.jpeg){width="100" .h-200}
 
-
 Mechanical Design Engineer and Product Designer with **1.5+ years of hands-on experience**  
 specializing in **SolidWorks-based CAD modeling**, complex assemblies, and manufacturing drawings.
 

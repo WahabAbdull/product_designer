@@ -6,7 +6,7 @@ Click [here](./projects/project_01.md) for more details
 
 #### **Project 2 | Mixture Machine**
 <!-- Description: -->
-Consumers often face bulky mixers that are hard to clean and use too much energy. I designed the MXR Smart Mixer to solve this with a compact, energy-efficient design, detachable dishwasher-safe parts, and precise speed control, making mixing easier and cleanup faster. <br>
+Your alarm screams. The kitchen counter is a war zone. But there sits your mixture machine—small, grinning up at you with that cheeky curved lid. No cords. No fuss. Twist, double-tap the glowing button, and the blades sing. Twenty seconds of tornado-action later, breakfast is ready. Drink. Snap the cap. Run. Pure mechanical magic that fits in your bag and your chaos. <br>
 Click [here](./projects/project_02.md) for more details
 
 #### **Project 3 | CLI Tooth Brush**

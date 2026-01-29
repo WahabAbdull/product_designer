@@ -11,23 +11,26 @@
 
 ## Benefits: 
 
-- Space Efficiency: 40% smaller footprint than conventional blenders; stores vertically in standard cup holders
-- Hygienic Serviceability: Tool-free disassembly allows complete separation of food-contact components for sanitization
-- Portability: USB-C rechargeable battery eliminates cord dependency for kitchen, office, or travel use
-- Dual-Function: Integrated strainer lid enables pulp separation; drinking lid converts vessel to travel bottle
+- **Space Efficiency:** 40% smaller footprint than conventional blenders; stores vertically in standard cup holders
+- **Hygienic Serviceability:** Tool-free disassembly allows complete separation of food-contact components for sanitization
+- **Portability:** USB-C rechargeable battery eliminates cord dependency for kitchen, office, or travel use
+- **Dual-Function:** Integrated strainer lid enables pulp separation; drinking lid converts vessel to travel bottle
 
 ## Functions: 
 
-- Drive System: Conical ABS housing with weighted anti-slip base and 18V DC motor generating 15,000–20,000 RPM
-- Vessel: 300–400ml borosilicate glass jar with dual-thread interface (machine thread for motor base, snap-fit for lids)
-- Cutting Assembly: 4-fin 304 stainless steel impeller with tapered shaft coupling for direct torque transfer
-- Lid System: ABS strainer (perforated filter) for smoothie texture control + ergonomic drinking cap with integrated carry loop
-- Safety: Double-click capacitive start button with LED indicator; Hall-effect sensor prevents operation when detached
-- Power: 2000mAh lithium-ion battery pack with PCM protection; 3–4 hour charge cycle via rear-mounted USB-C port
+- **Drive System:** Conical ABS housing with weighted anti-slip base and 18V DC motor generating 15,000–20,000 RPM
+- **Vessel:** 300–400ml borosilicate glass jar with dual-thread interface (machine thread for motor base, snap-fit for lids)
+- **Cutting Assembly:** 4-fin 304 stainless steel impeller with tapered shaft coupling for direct torque transfer
+- **Lid System:** ABS strainer (perforated filter) for smoothie texture control + ergonomic drinking cap with integrated carry loop
+- **Safety:** Double-click capacitive start button with LED indicator; Hall-effect sensor prevents operation when detached
+- **Power:** 2000mAh lithium-ion battery pack with PCM protection; 3–4 hour charge cycle via rear-mounted USB-C port
 
 ## 3D Rendering Images
 
-![first picture](./assets/images/mixture_machine/1.jeg){width="100" .h-200}
+![first picture](./project_2_mixture_machine/1.jpeg){width="80%"}
+![first picture](./project_2_mixture_machine/2.jpeg){width="80%"}
+![first picture](./project_2_mixture_machine/3.jpeg){height="400"}
+![first picture](./project_2_mixture_machine/4.jpeg){height="400" , width="250"}
 
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Behance](https://img.shields.io/badge/Behance-0A66C2?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/gallery/215636069/Abdul-Wahab) -->
