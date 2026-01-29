@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Engr. Abdul Wahab**
+## Hi, I'm **Engr. Abdul Wahab**
 
 <!-- <img src="assets/images/myprofile_picture.jpeg" width="220" align="center"/> -->
 
@@ -12,7 +12,7 @@ I transform **concepts into production-ready designs** with a strong focus on ac
 
 
 
-## 🎯 **What I Do**
+### 🎯 **What I Do**
 - Product & Industrial Design
 - 3D Modeling and Assemblies
 - Manufacturing Drawings

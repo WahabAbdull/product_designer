@@ -71,9 +71,9 @@ site_description: Portfolio of Abdul Wahab - Mechanical Design Engineer & Produc
 #   name: bootstrap
 #   nav_style: primary  # or 'dark' for dark navbar
 
-# theme:
-#   name: windmill
-#   highlightjs: true
+theme:
+  name: windmill
+  highlightjs: true
 
 # theme:
 #   name: windmill-dark
@@ -93,14 +93,20 @@ site_description: Portfolio of Abdul Wahab - Mechanical Design Engineer & Produc
 #       primary: white            # Clean professional look
 #       accent: blue
 
-theme:
-  name: windmill
-  include_search_page: true
-  highlightjs: true
+# theme:
+#   name: windmill
+#   include_search_page: true
+#   highlightjs: true
 
 # extra_css:
 #   - ./style_sheets/windmill-custom.css
 
+
+
+# theme:
+#   name: torillic
+#   # background_image: assets/wood-bg.jpg  # Custom parchment/wood texture
+#   # favicon: assets/d20-icon.png
 
 # theme:
 #   name: material
@@ -123,9 +129,11 @@ theme:
 nav:
   - Home: index.md
   - About Me: about.md
+  - Experience: experience.md
   - Projects: projects.md
   - Skills: skills.md
   - Contact: contact.md
+  
 
 extra_css:
   - assets/custom.css

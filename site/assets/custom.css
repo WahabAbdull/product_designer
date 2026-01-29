@@ -81,3 +81,15 @@
   display: block;
   clear: both;
 }
+.box {
+  background: cyan;
+  padding: 1px;
+  color: green;
+  width: fit-content; /* Element width */
+  height: fit-content; /* Height based on content */
+  box-sizing: border-box; /* Include padding and border in width and height calculations */
+}
+
+.pp {
+  text-align: justify;
+}
