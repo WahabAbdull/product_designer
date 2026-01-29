@@ -11,7 +11,7 @@ Click [here](./projects/project_02.md) for more details
 
 #### **Project 3 | CLI Tooth Brush**
 <!-- Description:  -->
-Consumers often use traditional toothbrushes that create waste and don’t stay hygienic. I designed the CLI Toothbrush with a sustainable design and UV technology that eliminates 99.88% of bacteria. With a travel-friendly case, it keeps hygiene high and reduces waste, making oral care cleaner and smarter. <br>
+Traditional toothbrushes generate plastic waste and harbor bacteria in damp environments. The CLI system solves this with a modular snap-fit head design and sliding polypropylene case featuring integrated UV-C LED sanitization—eliminating 99.88% of bacterial load when closed. The 18mm extruded housing contains an 800mAh lithium-polymer cell with USB-C charging, while the dual-rail sliding mechanism ensures pocket-portability. Tool-free head replacement extends product lifecycle, reducing environmental footprint without compromising oral hygiene. <br>
 Click [here](./projects/project_03.md) for more details
 
 #### **Project 4 | Mini Projects**
