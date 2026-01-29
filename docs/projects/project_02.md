@@ -3,11 +3,11 @@
 
 ## Problem: 
 
-- Traditional blenders are countertop-bound, difficult to clean, and over-engineered for single-serve use. Fixed blade assemblies trap food residue, while cord dependency limits use to kitchen environments.
+Traditional blenders are countertop-bound, difficult to clean, and over-engineered for single-serve use. Fixed blade assemblies trap food residue, while cord dependency limits use to kitchen environments.
 
 ## Solution: 
 
-- A cordless, modular personal mixer engineered in SolidWorks with a 5-piece quick-assembly architecture. The design vertically integrates a stabilized conical drive base, borosilicate glass vessel, and dual-lid system—enabling blending, filtering, and portable consumption from a single compact unit.
+A cordless, modular personal mixer engineered in SolidWorks with a 5-piece quick-assembly architecture. The design vertically integrates a stabilized conical drive base, borosilicate glass vessel, and dual-lid system—enabling blending, filtering, and portable consumption from a single compact unit.
 
 ## Benefits: 
 
@@ -25,7 +25,7 @@
 - **Safety:** Double-click capacitive start button with LED indicator; Hall-effect sensor prevents operation when detached
 - **Power:** 2000mAh lithium-ion battery pack with PCM protection; 3–4 hour charge cycle via rear-mounted USB-C port
 
-## 3D Rendering Images
+## 3D Rendering Images | Mixture Machine
 
 ![first picture](./project_2_mixture_machine/1.jpeg){width="80%"}
 ![first picture](./project_2_mixture_machine/2.jpeg){width="80%"}
