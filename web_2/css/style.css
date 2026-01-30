@@ -337,4 +337,82 @@ footer {
     .hero h1 {
         font-size: 2.2rem;
     }
+}/* Lightbox Modal */
+.lightbox {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.9);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 2000;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.lightbox.active {
+    display: flex;
+    opacity: 1;
+}
+
+.lightbox img {
+    max-width: 90%;
+    max-height: 90%;
+    border-radius: 5px;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
+    animation: zoomIn 0.3s ease;
+}
+
+.lightbox-close {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    color: white;
+    font-size: 3rem;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.lightbox-close:hover {
+    color: var(--primary-color);
+}
+
+@keyframes zoomIn {
+    from {
+        transform: scale(0.8);
+        opacity: 0;
+    }
+
+    to {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+/* Make images clickable */
+.project-card img,
+.about-content img {
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+.about-content img:hover {
+    transform: scale(1.02);
+}
+/* Detail Image Styling */
+.detail-image {
+    display: block;
+    margin: 20px auto;
+    /* Center the image */
+    height: auto !important;
+    /* Override the fixed 200px height from .project-card img */
+    max-width: 100%;
+    /* Ensure responsiveness */
+    object-fit: contain;
+    /* Maintain aspect ratio */
+    border-bottom: none !important;
+    /* Remove the border from project card style if present */
 }
