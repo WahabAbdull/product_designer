@@ -19,7 +19,7 @@ Curated collection of seven parametric SolidWorks projects: industrial shell-and
 
 Fluid power generation (pump), thermal energy transfer (exchanger), solar radiation concentration (trough), containment sealing (cap), device protection (casing), structural support (table), and kinetic mathematical demonstration (Mobius ring).
 
-## 3D Rendering Images | Mini Projects
+## Project Gallery
 
 [![Behance](https://img.shields.io/badge/Behance-0A66C2?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/gallery/215636069/Abdul-Wahab)
 

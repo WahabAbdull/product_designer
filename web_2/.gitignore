@@ -1,0 +1,11 @@
+# Ignore build directories
+site/
+.build/
+.cache/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore personal settings
+.vscode/

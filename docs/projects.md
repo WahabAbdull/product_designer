@@ -1,7 +1,8 @@
 <!-- ## **I have completed many projects** -->
 
 #### **Project 1 | Universal Flush-Driven Aerosol Air Freshener Mechanism**
-Description: <br>
+<!-- Description:  -->
+The Universal Flush-Driven Aerosol Air Freshener is a mechanical system designed to automatically dispense air freshener during every toilet flush. The mechanism operates through a flexible shaft connected to the flush lever, activating the aerosol can without the need for electricity, batteries, or electronic components.<br>
 Click [here](./projects/project_01.md) for more details
 
 #### **Project 2 | Mixture Machine**
