@@ -24,10 +24,10 @@ The CLI system combines sonic drive technology with UV-C sanitization in a slidi
 
 ## 3D Rendering Images | CLI Tooth Brush
 
+[![Behance](https://img.shields.io/badge/Behance-0A66C2?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/gallery/215636069/Abdul-Wahab)
+
 ![first picture](./project_3_cli_toothbrush/1.PNG){width="80%"}
 ![first picture](./project_3_cli_toothbrush/2.PNG){width="80%"}
 ![first picture](./project_3_cli_toothbrush/3.PNG){width="80%"}
 ![first picture](./project_3_cli_toothbrush/4.PNG){width="80%"}
 
-<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Behance](https://img.shields.io/badge/Behance-0A66C2?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/gallery/215636069/Abdul-Wahab) -->

@@ -16,5 +16,6 @@ Click [here](./projects/project_03.md) for more details
 
 #### **Project 4 | Mini Projects**
 <!-- Description:  -->
-Successfully designed and completed various industrial and mini projects, including centrifugal pumps, heat exchangers, phone casings, and parabolic troughs. Additionally, developed consumer products like mixer machines, toothbrushes, water taps, waste bins, and helmets.<br>
+<!-- Successfully designed and completed various industrial and mini projects, including centrifugal pumps, heat exchangers, phone casings, and parabolic troughs. Additionally, developed consumer products like mixer machines, toothbrushes, water taps, waste bins, and helmets.<br> -->
+One SolidWorks suite spanning industrial pumps, heat exchangers, and solar troughs—scaled down to injection-molded bottle caps and drop-tested phone shells, then bent into flowing continuous tables and spinning Mobius rings. From calculating shell-side pressures to surfacing mathematical infinity, these projects prove that every constraint—whether factory floor, consumer hand, or abstract topology—is just a parameter waiting to be solved.<br>
 Click [here](./projects/project_04.md) formore details.

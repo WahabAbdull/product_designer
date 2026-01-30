@@ -27,10 +27,10 @@ A cordless, modular personal mixer engineered in SolidWorks with a 5-piece quick
 
 ## 3D Rendering Images | Mixture Machine
 
+[![Behance](https://img.shields.io/badge/Behance-0A66C2?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/gallery/215636069/Abdul-Wahab)
+
 ![first picture](./project_2_mixture_machine/1.jpeg){width="80%"}
 ![first picture](./project_2_mixture_machine/2.jpeg){width="80%"}
 ![first picture](./project_2_mixture_machine/3.jpeg){height="400"}
 ![first picture](./project_2_mixture_machine/4.jpeg){height="400" , width="250"}
 
-<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Behance](https://img.shields.io/badge/Behance-0A66C2?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/gallery/215636069/Abdul-Wahab) -->
