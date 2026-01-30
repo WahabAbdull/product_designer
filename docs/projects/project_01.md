@@ -37,5 +37,5 @@ The proposed flush-driven aerosol air freshener eliminates these issues by using
 
 ![first picture](./project_1_universal%20flush_driven_aerosol_air_freshener_mechanism/complete%20assembly.JPG){width="80%"}
 ![first picture](./project_1_universal%20flush_driven_aerosol_air_freshener_mechanism/bill_of_material_manual_mechanism.JPG){width="80%"}
-![first picture](./project_1_universal%20flush_driven_aerosol_air_freshener_mechanism/rod_b-imageonline.co-merged.jpg){height="300" , width="80%"}
+![first picture](./project_1_universal%20flush_driven_aerosol_air_freshener_mechanism/rod_b-imageonline.co-merged.jpg){width="80%"}
 ![first picture](./project_1_universal%20flush_driven_aerosol_air_freshener_mechanism/spring.JPG){height="300" , width="80%"}
